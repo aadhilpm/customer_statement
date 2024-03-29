@@ -1,6 +1,6 @@
 ## Customer Statement
 
-This app add custom report for Customer Statements which are used widely used in Qatar for Submission ofmontly statement for Retail and Hypermarkets
+This application introduces a custom report tailored for Customer Statements, a widely utilized document in Qatar for the submission of monthly statements by retail and hypermarkets.
 
 #### License
 
